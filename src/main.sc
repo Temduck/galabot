@@ -12,10 +12,10 @@ theme: /
 
     state: Bye
         intent!: /bye
-        a: Дейін!
+        a: сау бол!
 
     state: NoMatch
         event!: noMatch
-        a: Мен түсінбедім. Сен дедің: {{$request.query}}
+        a: Мен түсінбедім. Сен не дедің: {{$request.query}}
 
 
