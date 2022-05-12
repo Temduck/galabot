@@ -19,3 +19,10 @@ theme: /
         a: Мен түсінбедім. Сен не дедің: {{$request.query}}
 
 
+theme: /GalamatInfo 
+    
+    state: ShowProjects
+        q: /projects 
+        a: Fuchuk, iTalent, REDArt, QOS, HR Capital, Dauys AI.
+        
+        
