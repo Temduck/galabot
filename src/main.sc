@@ -12,11 +12,11 @@ theme: /
             a: Сәлеметсіз бе!
             a: salam 
             a: kal kalay
-            state: HelloHello
-                intent!: /hello
-                random:
-                    a: amannin artygi jok
-                    a: biz amandastik koi ne kerek edi
+        state: HelloHello
+            intent!: /hello
+            random:
+                a: amannin artygi jok
+                a: biz amandastik koi ne kerek edi
 
     state: Bye
         intent!: /bye
