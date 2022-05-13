@@ -20,8 +20,9 @@
     "enabled" : true,
     "shared" : false,
     "phrases" : [ {
-      "text" : "дейін"
+      "text" : "сау бол"
     } ],
+    "patterns" : [ ],
     "priority" : 0
   }, {
     "id" : 9488334,
@@ -30,7 +31,14 @@
     "shared" : false,
     "phrases" : [ {
       "text" : "Сәлеметсіз бе"
+    }, {
+      "text" : "салем"
+    }, {
+      "text" : "салам "
+    }, {
+      "text" : "сәлем"
     } ],
+    "patterns" : [ ],
     "priority" : 0
   } ],
   "entities" : [ ],
