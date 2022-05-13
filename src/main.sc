@@ -4,7 +4,7 @@ theme: /
 
     state: Start
         q!: $regex</start>
-        a: *(Бастайық*|кеттік*|баста*|салем)*
+        a: Бастайық
 
     state: Hello
         intent!: /hello
